@@ -13,8 +13,14 @@
     tools:context="com.gsh.staggeredlinearlayoutdemo.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Hello World!" />-->
+
+    <com.gsh.staggeredlinearlayoutdemo.StaggeredLinearLayout
+        android:id="@+id/staggered_linear_layout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_margin="16dp" />
 </RelativeLayout>

@@ -3,4 +3,14 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <!--瀑布流文本的高度-->
+    <dimen name="pregnancy_wall_text_height">32dp</dimen>
+    <!--瀑布流文本的大小-->
+    <dimen name="pregnancy_wall_text_size">16px</dimen>
+    <!--瀑布流文本的水平space-->
+    <dimen name="pregnancy_wall_text_horizontal_space">6dp</dimen>
+    <!--瀑布流文本的垂直space-->
+    <dimen name="pregnancy_wall_text_vertical_space">10dp</dimen>
+    <!--瀑布流文本的左右padding-->
+    <dimen name="pregnancy_wall_text_padding_left_or_right">4dp</dimen>
 </resources>
